@@ -3,8 +3,11 @@
 	font-style: italic;
 	border: inset #ecff17;
 	background-color: #edf595;
+	font-family: 'Pacifico', cursive;
 }
-
+ .body{
+ 	font-family: 'Pacifico', cursive;
+ }
 
 
 .section__div{
